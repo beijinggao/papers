@@ -8,6 +8,7 @@
 | 多任务学习 | Adversarial Mixture Of Experts with Category Hierarchy Soft Constraint | [ICDE2021](https://icde2021.gr/accepted-papers/)， IEEE 37th International Conference on Data Engineering |多类目MoE模型在京东搜索精排中的应用 |
 | 多任务学习 | An Overview of Multi-Task Learning in Deep Neural Networks | Arxiv |概览，感觉一般 |
 | 多标签分类 | Deep Learning with a Rethinking Structure for Multi-label Classification | [ACML2019](http://www.acml-conf.org/2019/conference/accepted-papers/)，Asian Conference on Machine Learning |CCF C 大概看看 |
+| 计算机视觉 | Squeeze-and-Excitation Networks | [CVPR2018](https://openaccess.thecvf.com/content_cvpr_2018/html/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.html)， Conference on Computer Vision and Pattern Recognition |CCF A，se block很实用 |
 
 <img src="assets/AI_conference_CCFA.png"  width="100%" height="100%"/>
 
